@@ -16,8 +16,8 @@ public class Proyect01_clase03_dataOps {
         suma=num1+num2;
         promedio=suma/2;
         //salida de datos
-        System.out.println("Resultado 1:"+suma);
-        System.out.println("Resultado 2:"+promedio);
+        System.out.println("El resultado 1:"+suma);
+        System.out.println("El resultado 2:"+promedio);
     }
     
 }
